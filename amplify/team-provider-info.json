@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ttcdronepocdemo-dev-0e22d-authRole",
+      "UnauthRoleArn": "arn:aws:iam::469760958481:role/amplify-ttcdronepocdemo-dev-0e22d-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::469760958481:role/amplify-ttcdronepocdemo-dev-0e22d-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ttcdronepocdemo-dev-0e22d-deployment",
+      "UnauthRoleName": "amplify-ttcdronepocdemo-dev-0e22d-unauthRole",
+      "StackName": "amplify-ttcdronepocdemo-dev-0e22d",
+      "StackId": "arn:aws:cloudformation:us-east-1:469760958481:stack/amplify-ttcdronepocdemo-dev-0e22d/8c3c8960-dee5-11f0-87d2-12d4a59bc5f9",
+      "AmplifyAppId": "d2orqa6hqbv1uv"
+    },
+    "categories": {
+      "auth": {
+        "ttcdronepocdemo07074d43": {}
+      },
+      "function": {
+        "ttcdronepocdemoc4d91fb3": {
+          "deploymentBucketName": "amplify-ttcdronepocdemo-dev-0e22d-deployment",
+          "s3Key": "amplify-builds/ttcdronepocdemoc4d91fb3-33507757532f5a656550-build.zip"
+        }
+      },
+      "api": {
+        "ttcDroneApi": {}
+      }
+    }
+  }
+}
